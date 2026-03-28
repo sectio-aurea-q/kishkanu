@@ -1,0 +1,10 @@
+PDB_ID,Enzyme_Name,Resistance_Class,Quantum_Critical,Lindblad_Score,Tunneling_Probability,Catalytic_Multiplier,Confidence
+1BTL,TEM-1 Beta-Lactamase,Beta-Lactamase,True,0.351,0.615,9.92,0.400
+1BLH,BLIP-bound TEM-1 Beta-Lactamase,Beta-Lactamase,True,0.351,0.615,9.92,0.400
+2BLH,Streptomyces Beta-Lactamase,Beta-Lactamase,True,0.351,0.615,9.92,0.400
+1AAC,Aminoglycoside-Acetyltransferase AAC(6')-I,Aminoglycoside-Acetyltransferase,True,0.456,0.665,10.32,0.480
+1M0N,Aminoglycoside-Acetyltransferase AAC(3)-I,Aminoglycoside-Acetyltransferase,True,0.456,0.665,10.32,0.480
+4DX5,Tet(M) Tetracycline Resistance Protein (Ribosomal),Tetracycline-Efflux,True,0.419,0.648,10.18,0.453
+5VYY,TetA(B) Tetracycline Efflux Pump,Tetracycline-Efflux,True,0.419,0.648,10.18,0.453
+1JTG,IMP-1 Metallo-Beta-Lactamase,Metallo-Beta-Lactamase,True,0.351,0.615,9.92,0.400
+1SHG,VIM-2 Metallo-Beta-Lactamase,Metallo-Beta-Lactamase,True,0.351,0.615,9.92,0.400

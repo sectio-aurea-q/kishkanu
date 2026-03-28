@@ -1,0 +1,153 @@
+{
+  "title": "KISHKANU v0.1.1 - Quantum Antibiotic Resistance Enzyme Scanner",
+  "timestamp": "2026-03-28T21:26:59.929490",
+  "summary": {
+    "total_scanned": 9,
+    "quantum_critical_count": 9,
+    "quantum_critical_percentage": 100.0,
+    "avg_lindblad_score": 0.3895853174603175,
+    "avg_tunneling_probability": 0.6333333333333333,
+    "avg_catalytic_multiplier": 10.066666666666666
+  },
+  "results": [
+    {
+      "pdb_id": "1BTL",
+      "enzyme_name": "TEM-1 Beta-Lactamase",
+      "resistance_class": "Beta-Lactamase",
+      "quantum_critical": true,
+      "lindblad_score": 0.3514285714285714,
+      "tunneling_probability": 0.615,
+      "catalytic_efficiency_multiplier": 9.92,
+      "confidence": 0.4,
+      "structural_features": [
+        "Catalytic_Serine_Proton_Transfer",
+        "Oxyanion_Hole_Hydrogen_Bond"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in TEM-1 Beta-Lactamase fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 9.9x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "1BLH",
+      "enzyme_name": "BLIP-bound TEM-1 Beta-Lactamase",
+      "resistance_class": "Beta-Lactamase",
+      "quantum_critical": true,
+      "lindblad_score": 0.3514285714285714,
+      "tunneling_probability": 0.615,
+      "catalytic_efficiency_multiplier": 9.92,
+      "confidence": 0.4,
+      "structural_features": [
+        "Catalytic_Serine_Proton_Transfer",
+        "Oxyanion_Hole_Hydrogen_Bond"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in BLIP-bound TEM-1 Beta-Lactamase fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 9.9x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "2BLH",
+      "enzyme_name": "Streptomyces Beta-Lactamase",
+      "resistance_class": "Beta-Lactamase",
+      "quantum_critical": true,
+      "lindblad_score": 0.3514285714285714,
+      "tunneling_probability": 0.615,
+      "catalytic_efficiency_multiplier": 9.92,
+      "confidence": 0.4,
+      "structural_features": [
+        "Catalytic_Serine_Proton_Transfer",
+        "Oxyanion_Hole_Hydrogen_Bond"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in Streptomyces Beta-Lactamase fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 9.9x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "1AAC",
+      "enzyme_name": "Aminoglycoside-Acetyltransferase AAC(6')-I",
+      "resistance_class": "Aminoglycoside-Acetyltransferase",
+      "quantum_critical": true,
+      "lindblad_score": 0.456,
+      "tunneling_probability": 0.665,
+      "catalytic_efficiency_multiplier": 10.32,
+      "confidence": 0.48,
+      "structural_features": [
+        "Acetyl_CoA_Adenosine_Tunneling",
+        "Aminoglycoside_Binding_Pocket_Proton"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in Aminoglycoside-Acetyltransferase AAC(6')-I fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 10.3x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "1M0N",
+      "enzyme_name": "Aminoglycoside-Acetyltransferase AAC(3)-I",
+      "resistance_class": "Aminoglycoside-Acetyltransferase",
+      "quantum_critical": true,
+      "lindblad_score": 0.456,
+      "tunneling_probability": 0.665,
+      "catalytic_efficiency_multiplier": 10.32,
+      "confidence": 0.48,
+      "structural_features": [
+        "Acetyl_CoA_Adenosine_Tunneling",
+        "Aminoglycoside_Binding_Pocket_Proton"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in Aminoglycoside-Acetyltransferase AAC(3)-I fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 10.3x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "4DX5",
+      "enzyme_name": "Tet(M) Tetracycline Resistance Protein (Ribosomal)",
+      "resistance_class": "Tetracycline-Efflux",
+      "quantum_critical": true,
+      "lindblad_score": 0.4185625000000001,
+      "tunneling_probability": 0.6475000000000001,
+      "catalytic_efficiency_multiplier": 10.18,
+      "confidence": 0.4525,
+      "structural_features": [
+        "Catalytic_Serine_Proton_Transfer",
+        "Aminoglycoside_Binding_Pocket_Proton",
+        "Proton_Pumping_Gateway",
+        "Protonated_Histidine_Tunnel"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in Tet(M) Tetracycline Resistance Protein (Ribosomal) fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 10.2x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "5VYY",
+      "enzyme_name": "TetA(B) Tetracycline Efflux Pump",
+      "resistance_class": "Tetracycline-Efflux",
+      "quantum_critical": true,
+      "lindblad_score": 0.4185625000000001,
+      "tunneling_probability": 0.6475000000000001,
+      "catalytic_efficiency_multiplier": 10.18,
+      "confidence": 0.4525,
+      "structural_features": [
+        "Catalytic_Serine_Proton_Transfer",
+        "Aminoglycoside_Binding_Pocket_Proton",
+        "Proton_Pumping_Gateway",
+        "Protonated_Histidine_Tunnel"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in TetA(B) Tetracycline Efflux Pump fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 10.2x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "1JTG",
+      "enzyme_name": "IMP-1 Metallo-Beta-Lactamase",
+      "resistance_class": "Metallo-Beta-Lactamase",
+      "quantum_critical": true,
+      "lindblad_score": 0.3514285714285714,
+      "tunneling_probability": 0.615,
+      "catalytic_efficiency_multiplier": 9.92,
+      "confidence": 0.4,
+      "structural_features": [
+        "Catalytic_Serine_Proton_Transfer",
+        "Oxyanion_Hole_Hydrogen_Bond"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in IMP-1 Metallo-Beta-Lactamase fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 9.9x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    },
+    {
+      "pdb_id": "1SHG",
+      "enzyme_name": "VIM-2 Metallo-Beta-Lactamase",
+      "resistance_class": "Metallo-Beta-Lactamase",
+      "quantum_critical": true,
+      "lindblad_score": 0.3514285714285714,
+      "tunneling_probability": 0.615,
+      "catalytic_efficiency_multiplier": 9.92,
+      "confidence": 0.4,
+      "structural_features": [
+        "Catalytic_Serine_Proton_Transfer",
+        "Oxyanion_Hole_Hydrogen_Bond"
+      ],
+      "biological_implications": "QUANTUM-CRITICAL: Antibiotic resistance mechanism in VIM-2 Metallo-Beta-Lactamase fundamentally depends on quantum tunneling. This enzyme uses proton/electron tunneling to accelerate antibiotic inactivation by 9.9x. New drug design MUST account for quantum effects; classical inhibitor strategies will fail."
+    }
+  ]
+}
